@@ -56,6 +56,7 @@ Algorithms used for predictive modelling:
 3) K-nearest Neighbors
 4) XG Boost
 5) Logistic regression
+
 Conclusion:
 ● The dataset contained 2000 records which were a mix of
 categorical features and numerical features. ● The dataset was almost
